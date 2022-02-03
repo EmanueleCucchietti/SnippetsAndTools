@@ -3,6 +3,28 @@ Snippets And Tools
 
 Repository for javascript snippets and scratches
 
+
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+
 Readme Example:
 ![Immagine di tutorial Bootstrao](https://websitesetup.org/wp-content/uploads/2019/10/bootstrap-4-tutorial.jpg)
 
