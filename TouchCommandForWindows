@@ -1,0 +1,8 @@
+To create a file from windows terminal (prompt or powershell)
+Use this sintax
+
+"textInFile" >> nameFile.nameExtension
+
+example>
+"" >> index.html
+will create and "index.html" file containing an empty line
